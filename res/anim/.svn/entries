@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://elec4010bproject.googlecode.com/svn"
+   name=""
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/res/anim"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="down_in.xml"
+   checksum="75c36076b2c34ed09b7624ca4b48e07b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-22T15:41:23.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="down_out.xml"
+   checksum="4e774c0db2ef396d728af406f614ce88"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-25T14:50:40.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="left_in.xml"
+   checksum="592ef415dd1e6da2f3aa9852ef3757fe"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-06T09:49:44.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="left_out.xml"
+   checksum="ab4d746c2e3fb15beac21a040a84707a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-22T15:41:23.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="right_in.xml"
+   checksum="1a8c21dae2dfff29385219fb0ffab51f"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-06T09:49:44.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="right_out.xml"
+   checksum="e70c293a3316d6859b5f41a3ea5c801e"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-22T15:41:23.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="up_in.xml"
+   checksum="0978f6fc0529683578e3b062a3934460"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-25T14:50:40.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="up_out.xml"
+   checksum="4f981a322913df024352236d9c7f8bcb"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-22T15:41:23.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+     <TextView
+        android:id="@+id/EventDetailAlarm"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">      
+    </TextView>
+	
+    <View
+    		    android:layout_width="fill_parent"
+		    	android:layout_height="10dp"
+		    	android:background="@color/holo_light"/>
+    <View
+    		    android:layout_width="fill_parent"
+		    	android:layout_height="1dp"
+		    	android:background="@color/gray"/>
+    <RadioGroup
+        	android:layout_width="fill_parent"
+        	android:layout_height="50dip"
+        	android:layout_gravity="bottom"
+        	android:gravity="center_vertical"
+        	android:orientation="horizontal" >
+		<Button
+			android:id="@+id/stopAlarm"
+			style="@style/main_tab_bottom"
+			android:gravity="center"
+			android:textSize="14sp"
+			android:text="Stop">		    
+		</Button>     
+		<View
+    		    android:layout_width="1dp"
+		    	android:layout_height="fill_parent"
+		    	android:background="@color/gray"/>
+		<Button
+			android:id="@+id/alarmLater"
+			style="@style/main_tab_bottom"
+			android:gravity="center"
+			android:textSize="14sp"
+			android:text="Later">		    
+		</Button> 
+  </RadioGroup>
+</LinearLayout>

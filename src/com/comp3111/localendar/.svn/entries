@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/src/com/comp3111/localendar"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name=".DS_Store"
+   checksum="f5d1b5cdee9d8a3875225d67697f0304"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:48:21.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="AboutusActivity.java"
+   checksum="0d57b011b85031ddd698f7623905a7f5"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-26T09:57:36.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="Appstart.java"
+   checksum="4780a9e064f2d9eede951be52a9d8b14"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-30T00:34:02.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="ConnectionDetector.java"
+   checksum="a9ffe6af7a01dd3b9ef66aa650f0b55d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-05T17:12:58.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="Localendar.java"
+   checksum="939b2d9d68c65babbf59de5cf9af1804"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:44:37.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="SettingsActivity.java"
+   checksum="cc03392290f08ded95f9853f2bab1987"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-06T14:40:54.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="SettingsFragment.java"
+   checksum="ae197e4322b707de669a55735a8f07c4"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-06T14:40:54.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="SigninActivity.java"
+   checksum="ae959b959a20108a7d56ee75b4bac325"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-01T04:36:05.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="calendar"
+   kind="dir"/>
+<entry
+   name="database"
+   kind="dir"/>
+<entry
+   name="facebook"
+   kind="dir"/>
+<entry
+   name="map"
+   kind="dir"/>
+<entry
+   name="support"
+   kind="dir"/>
+</wc-entries>

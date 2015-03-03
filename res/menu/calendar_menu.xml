@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+     
+              <item android:id="@+id/day_view"
+                    android:title="Day View"
+                    android:orderInCategory="1"/>
+              <item android:id="@+id/month_view"
+                    android:title="Month View"
+                    android:orderInCategory="1"/>
+              <item android:id="@+id/go_to_someday"
+                  	android:title="Go to"
+                  	android:orderInCategory="2">
+	              <menu>
+	              		<item android:id="@+id/go_to_today"
+		                    android:title="Today"
+		                    android:orderInCategory="1"/>
+	              		<item android:id="@+id/go_to_chooseday"
+		                    android:title="Choose Date"
+		                    android:orderInCategory="2"/>
+	              </menu>
+              </item>
+              <item android:id="@+id/event_search"
+                    android:title="Search Event"
+                    android:orderInCategory="3"/>
+              <item android:id="@+id/event_online"
+                    android:title="Online Event"
+                    android:orderInCategory="4"/>
+</menu>

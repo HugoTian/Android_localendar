@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://elec4010bproject.googlecode.com/svn"
+   name=""
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/src/com/comp3111/localendar/database"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="DatabaseConstants.java"
+   checksum="96f8b95f3ccd6f29865247ebe6a6a5eb"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-02T14:09:19.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="DatabaseHelper.java"
+   checksum="40712881cabd26fde912186c827b5462"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-13T16:17:36.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://elec4010bproject.googlecode.com/svn"
+   name=""
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/res/drawable-mdpi"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="ic_action_discard.png"
+   checksum="47a209c21a4388394c75ce87cb08e532"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-12T11:53:18.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="ic_action_discard_pressed.png"
+   checksum="fefef39566ca1798cc0229590293c783"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-04T16:15:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="ic_action_map.png"
+   checksum="4422a04a1359b78d088b67aa43424fde"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-07T15:29:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="ic_action_new.png"
+   checksum="2388ef82003150263bf6e99b1e94ad43"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-07T15:29:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="ic_action_settings.png"
+   checksum="b415a22011cb9d595b655ce3d50eea5c"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-07T15:29:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="ic_action_share.png"
+   checksum="519a25b74e045a1d5447d2d108777415"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-04T16:15:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="ic_action_share_pressed.png"
+   checksum="d585b8133b43b4dad3b03efeb61be7f6"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-04T16:15:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="ic_action_view_as_list.png"
+   checksum="34fe01078b2b97b43b29a21186f6898a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-07T15:29:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="8a953d0d0c5603af105eead7a81086aa"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-02-26T13:33:06.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:33.000000Z"/>
+<entry
+   name="search_map.png"
+   checksum="cbbf9576827a070f10ecef34002ecb06"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-12T11:53:18.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+</wc-entries>

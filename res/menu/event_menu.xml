@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/edit_event"
+          android:title="Edit"
+          android:orderInCategory="1">
+    </item>
+    <item android:id="@+id/delete_event"
+          android:title="Delete"
+          android:orderInCategory="2">
+    </item>
+    <item android:id="@+id/addmarker"
+          android:title="Show on map"
+          android:orderInCategory="3">
+    </item>
+    <item android:id="@+id/share_to_fb"
+          android:title="Share to Facebook"
+          android:orderInCategory="4">
+    </item>
+    <item android:id="@+id/share_to_googlePlus"
+          android:title="Share to Google+"
+          android:orderInCategory="5">
+    </item>
+    <item android:id="@+id/share_to_others"
+          android:title="Share with Others"
+          android:orderInCategory="6">
+    </item>
+</menu>

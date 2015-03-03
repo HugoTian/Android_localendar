@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://elec4010bproject.googlecode.com/svn"
+   name=""
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/libs"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="android-junit-report-1.5.8.jar"
+   checksum="b2128692fcf175119f337abd1c90a79f"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-10T12:45:56.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="android-support-v4.jar"
+   checksum="0e7dc7acd3505ac97eb7e6d72719bab5"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-02-26T13:33:06.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+</wc-entries>

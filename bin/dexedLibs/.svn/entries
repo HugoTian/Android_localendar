@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/bin/dexedLibs"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="android-junit-report-1.5.8-784b04de2d82155aed13e34c07f7a810.jar"
+   checksum="e01eb8c7979a7bc483f0785ba08df0dc"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:46:04.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="android-support-v4-98d72e61cd2d4b0cc91871dee4b7487b.jar"
+   checksum="e02c246f69d4f8c319f235f375854f01"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:46:04.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="android-support-v7-appcompat-1a6d289004190e4018650e720366bcd2.jar"
+   checksum="a5921522b47d216ae5be8e22af93242f"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T04:19:23.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="android-support-v7-appcompat-f3c20baa8d0cf7178bf1e4d153c206bc.jar"
+   checksum="db62b3d21965941ee02d59d6db275a22"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T11:28:52.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="facebooksdk-445af4c05f2bcbece624881d3a1e43b0.jar"
+   checksum="69e89f9020ea2b785ada60539dd7321c"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T11:28:52.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="google-play-services-c84a34f347b41bd4363eefb616a3fef2.jar"
+   checksum="43e252ada3bdf5caefa71ac1dcee2fba"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:46:03.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="google-play-services_lib-c3cda009c10927f6a00177cbdcee5319.jar"
+   checksum="f4bdbdd87162e93264a9e24fd234436c"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T11:28:52.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+</wc-entries>

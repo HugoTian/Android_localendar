@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/src/com/comp3111/localendar/calendar"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name=".DS_Store"
+   checksum="96dba10f96c9f2950ca5764979754c43"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:48:27.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="AddEventActivity.java"
+   checksum="2e87e4c1f49d5ce9e8eec905e1255b92"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T13:16:26.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="AlarmReceiverActivity.java"
+   checksum="2970a69f7765a9aa9b8cb70b42897f1f"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-06T14:40:54.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="CalendarSearch.java"
+   checksum="8dd0b4600a2c51939714bf1c37743971"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-05T05:09:45.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="CalendarView.java"
+   checksum="d4793e85c4520cb1cbf86665f17341df"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-19T00:10:47.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="DayCell.java"
+   checksum="fb131ee628b4cde4ba4793d9de632f79"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-19T00:10:47.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="DayChooseActivity.java"
+   checksum="35e77cc115514a8e04127e92e4869814"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-05T16:54:38.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="EditEventActivity.java"
+   checksum="25ce947f8ba44d92edb2170b129ea84b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-22T15:41:23.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="EventDetailActivity.java"
+   checksum="b621827f5e95872ba287519869950539"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:42:20.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="JSONParser.java"
+   checksum="dee44042034ddec2bb4c9d7d1f2dc889"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:36:42.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="MyCalendar.java"
+   checksum="d3e8f29722237b2d9d6545bcf531bb9b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-06T15:50:38.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="OnlineEventDetail.java"
+   checksum="d4171539f7ac590dfb142480d6370763"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T12:18:03.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="SearchResult.java"
+   checksum="c7034f0279d2af76faa29460595ae247"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-04T18:28:10.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="onlineEvent.java"
+   checksum="32a8199a519ff42fd3bd0f57bd0266f4"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T05:08:03.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="shareEvent.java"
+   checksum="9ddcc600fc9a830448fcd903938890a7"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T11:28:37.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>

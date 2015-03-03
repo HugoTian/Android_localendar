@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/res/drawable-hdpi"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name=".DS_Store"
+   revision="13"
+   checksum="2bacdaa342c8c72415d975d07b716099"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="13"
+   text-time="2014-05-15T03:30:11.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:30:31.597000Z"
+   prop-time="2014-05-15T03:24:33.000000Z"/>
+<entry
+   name="add_normal_o.png"
+   checksum="f664d03fa3fc1263c8b7a2ce52f13b06"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="add_pressed_ori.png"
+   checksum="961b38628da4706b88d295620cc68f18"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="bottom_bar.png"
+   checksum="6a016bf73c8b3dc1c43e82854c58d74c"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="button.png"
+   checksum="6c09ac0020f8c13fe671325a2fc166e8"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="calendar_today.png"
+   checksum="76db3b9000a3dbbb6eae4e82dc515a51"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-04-19T00:10:47.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:33.000000Z"/>
+<entry
+   name="cancel_button_normal.png"
+   checksum="f130240c15b7c4465f2be3a3f2273456"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-04-15T18:31:02.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:33.000000Z"/>
+<entry
+   name="cancel_button_pressed.png"
+   checksum="1ef84b5c3a6bab1ff2a68b1abaec927f"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-04-15T18:31:02.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="event_button.png"
+   checksum="1365244f295fc4a7fc6fcc8444bd8494"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="event_dialog_background.png"
+   checksum="b6820f244a0d474cca5ef16a92f467c9"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="google_calendar.png"
+   checksum="909a3000cf4be845fc8d88ad2f82efde"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="google_calendar_ori.png"
+   checksum="d7c753c5625f6b3eb8c71c681570ccdd"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="ic_action_discard.png"
+   checksum="6b3b5b67cab4e69e1c5d16781d306817"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-04-12T11:53:18.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:27.000000Z"/>
+<entry
+   name="ic_action_discard_pressed.png"
+   checksum="f321c1c954e298abfe6c9f57ac9e40bb"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-05-04T16:15:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="ic_action_share.png"
+   checksum="26b45c26eb9ed186353df44f41cf984f"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-05-04T16:15:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:27.000000Z"/>
+<entry
+   name="ic_action_share_pressed.png"
+   checksum="40c33990d622a1b1276b3396180151df"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-05-04T16:15:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:27.000000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="d42088e526e901957afbc1a53dccf150"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="item_normal.png"
+   checksum="3c05a4d3a12b76b5c45eb78d1c1dd0a8"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="item_pressed.png"
+   checksum="2d8e380bf628bfdf482fbbbc94d8598f"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="localendar_logo.png"
+   checksum="1e1cfecbd3b01b3f4d9cdb2fcf9ec676"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-05-15T03:06:53.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="month_background.png"
+   checksum="e4fd15fcfa96c85596c7739ccd4ad8eb"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-04-19T00:10:47.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:27.000000Z"/>
+<entry
+   name="ok_button_normal.png"
+   checksum="c04a39497ecc46910f39cb47a8da4963"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-04-15T18:31:02.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="ok_button_pressed.png"
+   checksum="0329953ce341474fe7859eed5b2dd893"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-04-15T18:31:02.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="search_map.png"
+   checksum="20437b0dd9a70cc67adf7fa053d15e69"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-25T06:24:09.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="small_logo.png"
+   checksum="9a7331b5772517cde4008397a27244d6"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-05-12T13:29:05.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:27.000000Z"/>
+<entry
+   name="small_logo_color.png"
+   revision="14"
+   checksum="9a7331b5772517cde4008397a27244d6"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:29:05.000000Z"
+   committed-rev="14"
+   kind="file"
+   committed-date="2014-05-15T03:31:23.892000Z"
+   prop-time="2014-05-15T03:31:22.000000Z"/>
+<entry
+   name="start.png"
+   checksum="464830b9e8aef6fa3df0895280f77715"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-05-12T13:28:33.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="submenu.png"
+   checksum="b67e642811d5c0101e01ea003b3a51bc"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="tab_add_normal.png"
+   checksum="f325fe70c7d5815aad485b73595c1d0c"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-12T17:19:07.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="tab_add_pressed.png"
+   checksum="2a55032b5b2f2f87912dd4e335020d65"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-12T17:19:07.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="tab_bg.png"
+   checksum="928cc1d8151cf09fb78a87683ab98b83"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-02-26T13:33:06.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="tab_calendar_normal.png"
+   checksum="c2a38b662181769d2123cb2bfa03fd63"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-12T17:19:07.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="tab_calendar_pressed.png"
+   checksum="eb557a10518b59ab16f785e470499358"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-12T17:19:07.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="tab_list_normal_ori.png"
+   checksum="392f8e5efd11104623ad7debbb8e7c8a"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+<entry
+   name="tab_list_pressed_ori.png"
+   checksum="3ee37c2133ae72632fbfcb31e43e5c7f"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="tab_map_normal.png"
+   checksum="345ff27cf7768b7de425b37a59d091ba"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="tab_map_normal_ori.png"
+   checksum="942f26d243ec05b09670a875da2d9587"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:33.000000Z"/>
+<entry
+   name="tab_map_pressed.png"
+   checksum="9ad2e443f70ca2afd03bfbccfa5c214d"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="tab_map_pressed_ori.png"
+   checksum="c5297c111a1e03f9c28597dda7aaac8f"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="tab_settings_normal.png"
+   checksum="2381887f8735a2af9f8d9ba3d213a1f7"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="tab_settings_normal_ori.png"
+   checksum="f664d03fa3fc1263c8b7a2ce52f13b06"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="tab_settings_pressed.png"
+   checksum="693c152171e3fae380d7e76551a42027"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="tab_settings_pressed_ori.png"
+   checksum="961b38628da4706b88d295620cc68f18"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="title_bar.png"
+   checksum="1dcff3bb33c3b818834dcbfcf4c92930"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+<entry
+   name="title_bar_ori.png"
+   checksum="c3e8198c3c200f68ad03c428c84a67ad"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-03-07T15:29:32.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:29.000000Z"/>
+</wc-entries>

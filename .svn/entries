@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="11"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject"
+   uuid="8cff04be-8648-fb9b-86da-b1d50281dab8"
+   committed-rev="11"
+   kind="dir"
+   committed-date="2014-05-15T03:23:32.055669Z"/>
+<entry
+   name=".classpath"
+   revision="12"
+   checksum="761b4433bfbb02bebfbc3807ecefef39"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-12T12:59:33.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name=".project"
+   revision="12"
+   checksum="62a0df32e8f42e56120a824b1cddfd2a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:25:15.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="AndroidManifest.xml"
+   revision="12"
+   checksum="afd265b6d3b68589d2f0942c04e4e646"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T05:24:08.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="android.jar"
+   revision="12"
+   checksum="606a95338f5742b5afb8b3cb43e7dd9d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-25T21:41:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="ant.properties"
+   revision="12"
+   checksum="875fd31ee73d0bf952c4a8400d1222b2"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-10T12:58:34.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="assets"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="build.xml"
+   revision="12"
+   checksum="380876734a7c7f8a3edb378b21ee422a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-12T11:52:25.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="gen"
+   kind="dir"/>
+<entry
+   name="ic_launcher-web.png"
+   revision="12"
+   checksum="47f9ad9a48d1279cc7c2e403f7cdad3c"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-02-26T13:33:06.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:32.000000Z"/>
+<entry
+   name="libs"
+   kind="dir"/>
+<entry
+   name="lint.xml"
+   revision="12"
+   checksum="1ce274a186a2afb9f76542702f6ecc4d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-12T12:59:33.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="local.properties"
+   revision="12"
+   checksum="20147d32fbb9186caeb536cf0831dd55"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-22T16:39:16.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="proguard-project.txt"
+   revision="12"
+   checksum="18bfe77c342b4698f1cef19cf8d918e2"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-02-26T13:33:06.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="project.properties"
+   revision="12"
+   checksum="17c46aa7f139a81d5dce87765454da84"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:59:49.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>

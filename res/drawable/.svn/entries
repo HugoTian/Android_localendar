@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/res/drawable"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="cancel_button.xml"
+   checksum="bd503cf9d485467b72201c60351ed1f1"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-25T14:50:40.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="discard_button.xml"
+   checksum="a9b8c35930091189f8b7f680b687f38e"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-04T16:15:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="dotline.xml"
+   checksum="e03a31db5f9dbc8ce7c0c4246015294c"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-07T16:45:43.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="event_background.xml"
+   checksum="3ef7ba58886fe19ef5dd75634ac52d92"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-15T18:31:02.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="facebook_button.xml"
+   checksum="734e8dde072597afe57bb4d09ba68169"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-03T19:08:48.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="item.xml"
+   checksum="039768938e6f498ff1d3d9523beb01ed"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-02-26T13:33:06.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="ok_button.xml"
+   checksum="d33147559286a0364d2fc21d55444e03"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-25T14:50:40.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="share_button.xml"
+   checksum="c06ac895439943c15974d5575fa63a7a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-04T16:15:32.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="tab_add.xml"
+   checksum="1435b098755a48516f4c2424a2522abf"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-12T17:19:07.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="tab_calendar.xml"
+   checksum="e7cfe0eb0f3a992fdeb8ec83eb08f0e4"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-12T17:19:07.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="tab_map.xml"
+   checksum="fc7f68d208926e13485d1b28ef3485db"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-12T17:19:07.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="tab_settings.xml"
+   checksum="43ec645d017f0fb447c201691251163b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-12T17:19:07.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="text_background.xml"
+   checksum="96f83f269d0a973691111212e0ea92ed"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-18T17:37:04.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>

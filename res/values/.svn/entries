@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://elec4010bproject.googlecode.com/svn"
+   name=""
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/res/values"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="color.xml"
+   checksum="13f017b560e9032aeb4540e519c207e4"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-03T19:08:48.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="dimens.xml"
+   checksum="6631377375ae0837da23fe4e5f014bca"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-19T00:10:47.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="strings.xml"
+   checksum="6bddfcb64875b12c257e20526ac3522a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-15T03:12:48.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="styles.xml"
+   checksum="58b433f3af9eddc68bb99afa60a07b7f"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-04T15:01:09.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>

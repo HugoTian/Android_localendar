@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://elec4010bproject.googlecode.com/svn"
+   name=""
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/src/com/comp3111/localendar/map"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name=".DS_Store"
+   checksum="14e88f5265222a6ed55772f3d132b992"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:48:16.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:33.000000Z"/>
+<entry
+   name="GPSTracker.java"
+   checksum="8607a5792c13cda79032af95f5edcd8c"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-13T15:05:51.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="MyGoogleMap.java"
+   checksum="a3db77e15ba47c6a761f3750d75b0064"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T12:55:36.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="Place.java"
+   checksum="b7cdef959d0ed3690c9a69bc96a0f1e0"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-06T13:52:08.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/bin"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="AndroidManifest.xml"
+   checksum="afd265b6d3b68589d2f0942c04e4e646"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T05:24:08.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="Localendar.apk"
+   checksum="8bcc17b885bace757eb57fd09ea27836"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T13:16:34.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:30.000000Z"/>
+<entry
+   name="R.txt"
+   checksum="38b5d6ea5829df227c09ef62ece3e60d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-15T03:18:15.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="classes"
+   kind="dir"/>
+<entry
+   name="classes.dex"
+   checksum="e25c85a512a62bc480be7e9e2f64a1f7"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T13:16:33.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="dexedLibs"
+   kind="dir"/>
+<entry
+   name="jarlist.cache"
+   checksum="fc71167c6bdcb72ccd4a8782e18ff84b"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-15T03:10:51.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   name="resources.ap_"
+   checksum="9c0fc138ec991320a025fe1dd25f3aaa"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-14T12:18:23.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:28.000000Z"/>
+</wc-entries>

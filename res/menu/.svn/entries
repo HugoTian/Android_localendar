@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://elec4010bproject.googlecode.com/svn"
+   name=""
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/res/menu"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name=".DS_Store"
+   checksum="90d12c1c87fd61eee504b291ca793654"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-12T13:40:48.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"
+   prop-time="2014-05-15T03:24:31.000000Z"/>
+<entry
+   name="calendar_menu.xml"
+   checksum="7f2599093325d2e4683126ebaa31328d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-11T14:21:09.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="contextual_action_bar.xml"
+   checksum="d0d491325a188cf6ebdf92b7301e8f84"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-12T14:21:59.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="event_menu.xml"
+   checksum="d01ebce3c87850f7aec7b8297e016fff"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-11T14:06:16.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="map_menu.xml"
+   checksum="32dbe3f518beb3caa4f8a4738532b27a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-05-05T16:54:38.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="settings_menu.xml"
+   checksum="3bcfb96d32c66d74585ac0a098a37a5d"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-30T13:48:12.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>

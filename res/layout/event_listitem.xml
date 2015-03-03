@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>   
+	<LinearLayout 
+       	xmlns:android="http://schemas.android.com/apk/res/android"   
+        android:orientation="vertical"  
+        android:layout_width="fill_parent" 
+        android:layout_height="100dip"   
+        android:id="@+id/event_item" 
+        android:background="@color/light_gray" 
+        android:paddingBottom="3dip"   
+        android:paddingLeft="10dip"   >
+
+        <TextView   
+                android:layout_height="wrap_content"   
+                android:layout_width="fill_parent"   
+                android:id="@+id/item_title"
+                android:textStyle="bold"  
+                android:textSize="20sp">  
+        </TextView>  
+        <GridLayout
+			 android:orientation="horizontal"  
+			 android:layout_width="fill_parent"  
+			 android:layout_height="wrap_content"
+			 android:columnCount="3"
+    		 android:rowCount="1" 
+			 android:gravity="center">
+	        <TextView   
+	                android:layout_height="wrap_content"   
+	                android:layout_width="wrap_content"   
+	                android:id="@+id/item_hour"
+	                android:textSize="18sp">  
+	        </TextView>
+	        <TextView   
+	                android:layout_height="wrap_content"   
+	                android:layout_width="wrap_content"
+	                android:text=":"
+	                android:textSize="18sp">  
+	        </TextView>
+	        <TextView   
+	                android:layout_height="wrap_content"   
+	                android:layout_width="wrap_content"   
+	                android:id="@+id/item_minute"
+	                android:textSize="18sp">  
+	        </TextView>
+	    </GridLayout>
+	    <TextView   
+                android:layout_height="wrap_content"   
+                android:layout_width="fill_parent"   
+                android:id="@+id/item_location"   
+                android:textSize="18sp">  
+        </TextView> 
+        
+        <TextView   
+                android:layout_height="wrap_content"   
+                android:layout_width="wrap_content"   
+                android:id="@+id/item_id"
+                android:textSize="1sp"
+                android:textColor="@android:color/transparent"> 
+        </TextView>
+	</LinearLayout>
+

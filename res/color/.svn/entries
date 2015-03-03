@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/res/color"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="add_button_text.xml"
+   checksum="104ecee2c31aecc536e7a86940604a1a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-07T12:45:34.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="cancel_button.xml"
+   checksum="f2a9b3667071e5ee00ae744954278d4a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-07T16:45:43.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="confirm_button.xml"
+   checksum="f2a9b3667071e5ee00ae744954278d4a"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-07T16:45:43.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="tab_text_color.xml"
+   checksum="69adb551fd0da2e552dfca3bbf0966f5"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-12T17:19:07.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="text_view_settings.xml"
+   checksum="893a7984c2671b4dea4669e05e3fd599"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-03-06T18:59:19.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>

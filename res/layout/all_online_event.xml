@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <!-- Main ListView
+         Always give id value as list(@android:id/list)
+    -->
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    
+        <RadioGroup
+        	android:layout_width="fill_parent"
+        	android:layout_height="50dip"
+        	android:layout_gravity="bottom"
+        	android:gravity="center_vertical"
+        	android:orientation="horizontal" >
+        	
+		 <Button
+			android:id="@+id/btn_cancel"
+			style="@style/main_tab_bottom"
+			android:gravity="center"
+			android:textSize="14sp"
+			android:text="Cancel">	
+				    
+		</Button> 
+		<View
+    		    android:layout_width="1dp"
+		    	android:layout_height="fill_parent"
+		    	android:background="@color/gray"/>
+		
+		
+		<Button
+			android:id="@+id/btn_share"
+			style="@style/main_tab_bottom"
+			android:gravity="center"
+			android:textSize="14sp"
+			android:text="Finish">		    
+		</Button>    
+    </RadioGroup>
+ 
+</LinearLayout>

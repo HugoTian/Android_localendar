@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbarStyle="outsideOverlay" >
+
+ 	<LinearLayout
+   	    android:id="@+id/add_event_dialog_layout"
+   	    android:layout_width="match_parent"
+   	    android:layout_height="wrap_content"
+   	    android:orientation="vertical" >
+
+   	    <TextView
+   	        android:id="@+id/addEventTitle"
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Title"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+
+   	    <com.comp3111.localendar.support.ClearableEditText
+   	        android:id="@+id/event_title"
+   	        android:layout_width="match_parent"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+
+   	    
+   	    <TextView
+   	        android:id="@+id/addEventDescription"
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Description"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+
+   	    <com.comp3111.localendar.support.ClearableEditText
+   	        android:id="@+id/event_description"
+   	        android:layout_width="match_parent"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+
+   	    <GridLayout
+   	        android:layout_width="match_parent"
+   	        android:layout_height="wrap_content"
+   	        android:columnCount="2"
+    		android:rowCount="2"
+    		android:orientation="horizontal" >
+    		<TextView
+	   	        android:layout_width="wrap_content"
+	   	        android:layout_height="wrap_content"
+	   	        android:padding="8dp"
+	   	        android:text="Date"
+	   	        android:textColor="#000"
+	   	        android:textSize="18sp" />
+    		<DatePicker
+	   	        android:id="@+id/date_picker"
+	   	        android:layout_width="wrap_content"
+	   	        android:layout_height="wrap_content"
+	   	        android:scaleX="0.8"
+	   	        android:scaleY="0.8" 
+	   	        android:spinnersShown="true"
+	   	        android:calendarViewShown="false"/>
+    		<TextView
+	   	        android:layout_width="wrap_content"
+	   	        android:layout_height="wrap_content"
+	   	        android:padding="8dp"
+	   	        android:text="Time"
+	   	        android:textColor="#000"
+	   	        android:textSize="18sp" />
+   	        <TimePicker
+	   	        android:id="@+id/time_picker"
+	   	        android:layout_width="wrap_content"
+	   	        android:layout_height="wrap_content"
+	   	        android:scaleX="0.8"
+	   	        android:scaleY="0.8" />
+   	    </GridLayout>
+   	    
+		<TextView
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Duration"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+		
+		<GridLayout
+   	        android:layout_width="match_parent"
+   	        android:layout_height="wrap_content"
+   	        android:columnCount="4"
+    		android:rowCount="1"
+    		android:orientation="horizontal" >
+   	        <EditText
+	   	        android:id="@+id/duration_hour"
+	   	        android:layout_width="60dp"
+	   	        android:layout_height="wrap_content"
+	   	        android:padding="8dp"
+	   	        android:textColor="#000"
+	   	        android:textSize="18sp"
+	   	        android:inputType="number" />
+   	        <TextView
+	   	        android:layout_width="wrap_content"
+	   	        android:layout_height="wrap_content"
+	   	        android:padding="8dp"
+	   	        android:text="Hour"
+	   	        android:textColor="#000"
+	   	        android:textSize="18sp" />
+	   	        
+   	        <EditText
+	   	        android:id="@+id/duration_minute"
+	   	        android:layout_width="60dp"
+	   	        android:layout_height="wrap_content"
+	   	        android:padding="8dp"
+	   	        android:textColor="#000"
+	   	        android:textSize="18sp"
+	   	        android:inputType="number" />
+		    <TextView
+	   	        android:layout_width="wrap_content"
+	   	        android:layout_height="wrap_content"
+	   	        android:padding="8dp"
+	   	        android:text="Minute"
+	   	        android:textColor="#000"
+	   	        android:textSize="18sp" />
+		    
+   	    </GridLayout>
+   	        
+   	    <TextView
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Location"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+		
+   	    <com.comp3111.localendar.support.ClearableAutoCompleteTextView
+	        android:id="@+id/event_location"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textSize="18sp"
+	        android:imeOptions="actionSearch"
+	        android:inputType="textAutoComplete|textAutoCorrect"
+	        android:textColor="#000000" >
+    	</com.comp3111.localendar.support.ClearableAutoCompleteTextView>
+   	    
+   	    <TextView
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:padding="8dp"
+   	        android:text="Vehicle"
+   	        android:textColor="#000"
+   	        android:textSize="18sp" />
+   	    
+   	    <Spinner
+		    android:id="@+id/event_transportation"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:padding="8dp"
+   	        android:textColor="#000"
+   	        android:textSize="18sp"
+   	        android:entries="@array/transportation"
+		    android:spinnerMode="dropdown" />
+   	    
+   	    <TextView
+   	        android:layout_width="fill_parent"
+   	        android:layout_height="10dp" />
+   	    
+   	    <CheckBox
+   	        android:id="@+id/event_compulsory"
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:textSize="18sp"
+   	        android:text="Compulsory" />
+   	    
+   	    <TextView
+   	        android:layout_width="fill_parent"
+   	        android:layout_height="10dp" />
+   	    
+   	  	<GridLayout
+   	        android:layout_width="match_parent"
+   	        android:layout_height="wrap_content"
+   	        android:columnCount="2"
+    		android:rowCount="1"
+    		android:orientation="horizontal" >
+	   	    <TextView
+	   	        android:layout_width="wrap_content"
+	   	        android:layout_height="wrap_content"
+	   	        android:padding="8dp"
+	   	        android:text="Remind me"
+	   	        android:textColor="#000"
+	   	        android:textSize="18sp" />
+	   	    <Spinner
+			    android:id="@+id/remind_time"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:padding="8dp"
+	   	        android:textColor="#000"
+	   	        android:textSize="18sp"
+	   	        android:entries="@array/time_selection"
+			    android:spinnerMode="dialog" /> 
+   	    </GridLayout>
+   	    
+   	    <TextView
+   	        android:layout_width="fill_parent"
+   	        android:layout_height="50dp" />
+   	    
+   	
+
+   	</LinearLayout>
+
+</ScrollView>

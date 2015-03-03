@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://elec4010bproject.googlecode.com/svn"
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/src/com/comp3111/localendar/facebook"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="FacebookFragment.java"
+   checksum="9359fb7207ff874b0b1ba5d724d34946"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="12"
+   text-time="2014-05-04T17:40:09.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="FacebookLogin.java"
+   revision="15"
+   checksum="cd7980e4fbfcdb5287bf0bf752762aba"
+   last-author="zhangtian1000@gmail.com"
+   committed-rev="15"
+   text-time="2014-05-15T03:29:54.000000Z"
+   kind="file"
+   committed-date="2014-05-15T03:31:43.819000Z"/>
+</wc-entries>

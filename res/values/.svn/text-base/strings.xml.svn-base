@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intelligent Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="newEvent">New</string>
+    <string name="eventList">List View</string>
+    <string name="map">Map</string>
+    <string name="settings">Settings</string>
+    <string name="map_search_title">Search</string>
+    <string name="calendar">Calendar</string>
+	<string name="add">Add</string>
+	<string name="app_id">628942917174007</string>
+
+    <string-array name="transportation">
+        <item>Drive</item>
+        <item>Public transportation</item>
+        <item>On foot</item>
+    </string-array>
+    
+     <string-array name="time_selection">
+        <item>Never</item>
+        <item>5 minutes ahead</item>
+        <item>10 minutes ahead</item>
+        <item>30 minutes ahead</item>
+        <item>1 hour ahead</item>
+        <item>1.5 hours ahead</item>
+        <item>2 hours ahead</item>
+        </string-array>
+        
+      <string-array name="default_event_duration_entries">
+        <item>15 mins</item>
+        <item>30 mins</item>
+        <item>1 hour</item>
+        <item>1.5 hours</item>
+        <item>2 hours</item>
+        </string-array>
+        
+      <string-array name="default_event_duration_values">
+          <item>0.25</item>
+          <item>0.5</item>
+          <item>1</item>
+          <item>1.5</item>
+          <item>2</item>
+      </string-array>
+      
+      <string-array name="default_marker_color_entries">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        </string-array>
+        
+      <string-array name="default_marker_color_values">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        </string-array>
+
+    <string name="title_activity_main_tab">Main</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_settings">Settings</string>
+    
+    <string name="circles_title">Visible circles:</string>
+    <string name="sign_out_button_name">Sign out</string>
+    <string name="revoke_access_button_name">Revoke</string>
+
+    <string name="status_sign_in_required">Sign-in required</string>
+    <string name="status_sign_in_error">Error signing in: %s</string>
+    <string name="status_loading">Loading…</string>
+    <string name="status_signing_in">Signing in with Google+…</string>
+    <string name="status_signed_out">Signed out</string>
+    <string name="status_revoke_access">Revoked access</string>
+    <string name="status_revoke_access_error">Error revoking access: %s</string>
+    <string name="signed_in_as">Signed in as %s</string>
+    
+    <!-- Used if there was an error loading the signed in user's name. -->
+    <string name="unknown_person">Unknown</string>
+    <string name="play_services_error">Google Play services is not available.  This application will close.</string>
+    <string name="close">Close</string>
+    <string name="profile_picture">User\'s profile picture.</string>
+    <string name="about_version">Version 20140426 \n ©2014 ELEC4010B Final Project</string>
+    <string name="about_us">Put location and calendar together. That\'s how we think we can make your life easier. You can find out more on</string>
+    <string name="link"><a href="https://code.google.com/p/comp3111handroid/">https://code.google.com/p/elec4010bproject/</a> \n \n </string>
+
+</resources>

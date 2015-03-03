@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://elec4010bproject.googlecode.com/svn"
+   name=""
+   revision="12"
+   last-author="zhangtian1000@gmail.com"
+   url="https://elec4010bproject.googlecode.com/svn/trunk/FinalProject/src/com/comp3111/localendar/support"
+   committed-rev="12"
+   kind="dir"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="ClearableAutoCompleteTextView.java"
+   checksum="f95ddbea30750603edab2ec66fec5fa4"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-02T14:09:19.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="ClearableEditText.java"
+   checksum="17b5f02eebfb0bca670c3f2c5d296f87"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-02T14:09:19.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="NonSwipeableViewPager.java"
+   checksum="27be9cf7740c06069ea08cce5145f7e4"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-13T16:21:15.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+<entry
+   name="PlacesAutoCompleteAdapter.java"
+   checksum="37846a02c68b5cb0b1e4b358fea4a992"
+   last-author="zhangtian1000@gmail.com"
+   text-time="2014-04-04T12:46:56.000000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2014-05-15T03:24:39.286000Z"/>
+</wc-entries>
